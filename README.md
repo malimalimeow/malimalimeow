@@ -16,7 +16,7 @@ while (job_hunting) {
 ```
 
 > **"Waiting for the right company to break my loop!"**
-> A proactive career changer balancing warehouse operations by day and compiling full-stack solutions by night. <3
+> A proactive career changer balancing warehouse operations by day and compiling full-stack solutions by night. ❤️
 
 ---
 
