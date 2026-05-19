@@ -16,9 +16,8 @@ while (job_hunting) {
 ```
 ---
 
-Waiting for the right company to break my loop! 
-A proactive career changer balancing warehouse operations by day and compiling full-stack solutions by night. 
-Ready to deploy my builder mindset full-time!<3
+> **"Waiting for the right company to break my loop!"**
+> A proactive career changer balancing warehouse operations by day and compiling full-stack solutions by night. <3
 
 ### 🛠️ My Tech Stack:
 **🚀 Languages & Frameworks**
