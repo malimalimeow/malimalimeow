@@ -12,8 +12,7 @@ while (job_hunting) {
         console.log("System successfully migrated to Tech Industry! 🚀");
         break; 
     }
-}
-```` `
+}```` `
 
 ---
 
