@@ -12,8 +12,8 @@ while (job_hunting) {
         console.log("System successfully migrated to Tech Industry! 🚀");
         break; 
     }
-}```` `
-
+}
+```
 ---
 
 Waiting for the right company to break my loop! 
